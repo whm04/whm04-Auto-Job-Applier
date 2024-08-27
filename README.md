@@ -13,5 +13,6 @@ Secure Data Handling
     At Auto Submit, we understand the challenges of job searching and are here to help you increase your efficiency and success rate.
 
 Thank you for trusting Auto Submit to enhance your job application process!"
+![autosubmit1](https://github.com/user-attachments/assets/3a5b820a-43d7-4d5f-a77d-c1c34af237f2)
 
 [Watch the Demo](https://www.youtube.com/watch?v=9KVsTO6Zi58)
